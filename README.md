@@ -1,4 +1,4 @@
 # MachineLearning
-Machine Learning exercise files. \n
+Machine Learning exercise files. <br />
 Modules learnt - 
   *Prahlad
